@@ -9,6 +9,6 @@
         "c:\\Users\\ASUS\\Downloads\\javafx-sdk-22.0.1\\lib\\javafx.swing.jar",
         "c:\\Users\\ASUS\\Downloads\\javafx-sdk-22.0.1\\lib\\javafx.web.jar",
         "c:\\Users\\ASUS\\Downloads\\javafx-sdk-22.0.1\\lib\\javafx-swt.jar",
-        "java/backend.jar"
+        "java/backend.jar",
     ]
 }

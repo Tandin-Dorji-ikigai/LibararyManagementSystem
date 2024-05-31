@@ -1,0 +1,15 @@
+Username: Tandin
+Password: Tandin123
+Role: Admin
+-----
+
+Username: dorji
+Email: dorji@gmail.com
+Password: password
+Role: User
+-----
+Username: Jigme
+Email: jigme@gmail.com
+Password: tandin123
+Role: User
+-----

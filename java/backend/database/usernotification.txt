@@ -1,0 +1,5 @@
+New book added - Title: asdf , Author: as df, Category: as df
+New book added - Title: New Book, Author: Dorji, Category: Fiction
+New book added - Title: Science, Author: Dorji, Category: Science
+New book added - Title: Harry Potter, Author: JK Rowling, Category: Fiction
+New book added - Title: New, Author: Book, Category: Non-Fiction

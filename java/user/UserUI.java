@@ -16,6 +16,8 @@ import product.Book;
 import Library.LibraryManagementSystem;
 import database.FileUtil;
 import database.UserUtil;
+import javafx.collections.ObservableList;
+
 
 public class UserUI {
     private Scene userScene;
@@ -96,6 +98,7 @@ public class UserUI {
             Command searchCommand = new SearchCommand(receiver, mainApp.getData(), query, userTable);
             searchCommand.execute();
         });
+
 
         Button userLogoutButton = new Button("Logout");
         userLogoutButton.setOnAction(e -> {
